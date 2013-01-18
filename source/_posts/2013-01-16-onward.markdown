@@ -100,17 +100,16 @@ again. It felt good.
 
 ---
 
-December 31 was my last day at Bocoup. In a few weeks, I start a new job. It's
-not at the company where Matt works -- alas, life these days calls for a bit
-more stability than a startup can offer. I'll be a senior software engineer at
-[Bazaarvoice](http://www.bazaarvoice.com/), the company behind the ratings and
-reviews on the websites of companies you might have heard of, such as WalMart,
+With much love to my friends and colleagues at Bocoup, I've realized it is time
+to move on. I'll be taking a few weeks off before starting as a senior
+software engineer at [Bazaarvoice](http://www.bazaarvoice.com/), the company
+behind the ratings and reviews on the websites of companies such as WalMart,
 Lowe's, Costco, Best Buy, and lots more.
 
-If you're in the JS world, Bazaarvoice might sound familiar because [Alex Sexton](http://alexsexton.com/), of yayQuery, TXJS, and redhead fame, works
-there. I'll be joining the team he works on, helping to flesh out, document,
-test, and implement a JavaScript framework he's been prototyping for the last
-several months.
+If you're in the JS world, Bazaarvoice might sound familiar because [Alex Sexton](http://alexsexton.com/),
+of yayQuery, TXJS, and redhead fame, works there. I'll be joining the team he
+works on, helping to flesh out, document, test, and implement a JavaScript
+framework he's been prototyping for the last several months.
 
 I've gotten tiny peeks at the framework as Alex and the rest of the team have
 been working on it, starting way back in February of last year, when I flew out
