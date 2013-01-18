@@ -29,7 +29,7 @@ interact with Arduinos.
 ## Career
 
 ### Bocoup, Boston, MA
-*Senior JavaScript Developer &mdash; April 2012 - Present*
+*Senior JavaScript Developer &mdash; April 2012 - December 2012*
 
 I joined Bocoup to do JavaScript consulting, but found myself engaging in the
 training side of the business instead. I developed new curriculum for teaching
