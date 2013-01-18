@@ -18,7 +18,7 @@ world of web development in 2012.
 
 ---
 
-A year ago I was working at Toura Mobile, a startup based in New York that was
+A year ago I was working at Toura, a startup based in New York that was
 developing software to make it easy to create content-centric mobile
 applications. I started there as a consultant back in 2010, helping them write
 a saner version of the prototype they'd developed in the months before.
@@ -71,9 +71,8 @@ JavaScript trainings, including a really fun two-day course on writing testable
 JavaScript. I also worked on creating a
 [coaching](http://training.bocoup.com/coaching/) offering, kicked off a
 [screencasts](http://training.bocoup.com/screencasts/) project, and had some
-great conversations as part of [Bocoup on
-Air](https://plus.google.com/101066175187812737186/posts). Throughout it all, I
-kept up a steady schedule of speaking -- TXJS, the jQuery Conference,
+great conversations as part of [Bocoup on Air](https://plus.google.com/101066175187812737186/posts).
+Throughout it all, I kept up a steady schedule of speaking -- TXJS, the jQuery Conference,
 Fronteers, Full Frontal, and more.
 
 Though I was keeping busy and creating lots of new content, there was one thing
@@ -81,13 +80,13 @@ I wasn't doing nearly enough of: writing code.
 
 ---
 
-I went to New York in November to speak at the New York Times [Open Source
-Science Fair](http://opensourcesciencefair.com/), and the next day I dropped in
-on Matt, my old boss from Toura, before heading to the airport. He's working at
-another startup these days, and they're using [Ember](http://emberjs.com/) for
-their front-end.  Though I was lucky enough to get a guided tour of Ember from
-Tom Dale over the summer, I'd always felt like I wouldn't really appreciate it
-until I saw it in use on a sufficiently complex project.
+I went to New York in November to speak at the New York Times [Open Source Science Fair](http://opensourcesciencefair.com/),
+and the next day I dropped in on Matt, my old boss from Toura, before heading
+to the airport. He's working at another startup these days, and they're using
+[Ember](http://emberjs.com/) for their front-end.  Though I was lucky enough to
+get a guided tour of Ember from Tom Dale over the summer, I'd always felt like
+I wouldn't really appreciate it until I saw it in use on a sufficiently complex
+project.
 
 As it turned out, Matt was looking for some JavaScript help; I wasn't really
 looking for extra work, but I figured it would be a good chance to dig in to a
@@ -108,8 +107,7 @@ more stability than a startup can offer. I'll be a senior software engineer at
 reviews on the websites of companies you might have heard of, such as WalMart,
 Lowe's, Costco, Best Buy, and lots more.
 
-If you're in the JS world, Bazaarvoice might sound familiar because [Alex
-Sexton](http://alexsexton.com/), of yayQuery, TXJS, and redhead fame, works
+If you're in the JS world, Bazaarvoice might sound familiar because [Alex Sexton](http://alexsexton.com/), of yayQuery, TXJS, and redhead fame, works
 there. I'll be joining the team he works on, helping to flesh out, document,
 test, and implement a JavaScript framework he's been prototyping for the last
 several months.
