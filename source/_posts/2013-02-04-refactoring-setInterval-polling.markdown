@@ -115,6 +115,6 @@ App.Helpers.checkSyncStatus().then(
 
 With a few more lines of code, we've made our function safer -- eliminating the possibility of an out-of-control `setInterval` -- and also made it vastly more useful to other pieces of the application that care about the outcome of the sync.
 
-While the example above used jQuery's promises implementation, there are plenty of other implementations as well, including Sam Breed's [underscore.Deferred](https://github.com/wookiehangover/underscore.Deferred), which mimics the behavior of jQuery's promises without the dependency on jQuery.
+While the example above used [jQuery's promises implementation](http://api.jquery.com/deferred.promise/), there are plenty of other implementations as well, including Sam Breed's [underscore.Deferred](https://github.com/wookiehangover/underscore.Deferred), which mimics the behavior of jQuery's promises without the dependency on jQuery.
 
 <small>* [Websockets](http://www.html5rocks.com/en/tutorials/websockets/basics/) are a great way to eliminate polling all together, but in the case of this application, they weren't an option.</small>
