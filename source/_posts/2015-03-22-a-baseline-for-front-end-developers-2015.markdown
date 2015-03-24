@@ -25,7 +25,7 @@ Remember back in 2009 when you read that HTML5 would be ready to use in 2014, an
 
 Do you need to be an ES6/ES2015 expert? Probably not today, but you should know at least as much about it as your peers, and possibly more. It's also worth at least entertaining the possibility of writing your next greenfield project using ES6; the future will be here before you know it.
 
-New language features aside, you should be able to speak fluently about the asynchronicity of JavaScript, and using callbacks and promises to manage it. You should have well-formed opinions about strategies for loading applications in the browser and communicating between pieces of an application. You should maybe have a favorite application development framework, but not at the expense of having a general understanding of how other frameworks operate, and the tradeoffs you accept when you chooose one.
+New language features aside, you should be able to speak fluently about the asynchronicity of JavaScript, and using callbacks and promises to manage it. You should have well-formed opinions about strategies for loading applications in the browser and communicating between pieces of an application. You should maybe have a favorite application development framework, but not at the expense of having a general understanding of how other frameworks operate, and the tradeoffs you accept when you choose one.
 
 ## Modules & Build Tools
 
