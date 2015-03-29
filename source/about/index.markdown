@@ -6,27 +6,63 @@ sharing: false
 footer: true
 ---
 
-*Durham, North Carolina*
+*Austin, Texas*
 
-I am a JavaScript application developer and a frequent speaker on the topic of
-code organization and best practices at events around the world. I authored the
-learning site [jQuery Fundamentals](http://jqfundamentals.com), contributed to
-the [jQuery Cookbook](http://shop.oreilly.com/product/9780596159788.do) from
-O'Reilly Media, served as a technical reviewer for David Herman's [Effective JavaScript](http://effectivejs.com), and created the
-[TXJS](http://texasjavascript.com) conference. I have also created and
-contributed to several open-source projects. I was instrumental in getting
-[deferreds and promises](http://rmurphey.com/blog/2010/12/25/deferreds-coming-to-jquery/)
-introduced to jQuery 1.5; I created the
-[js-assessment](https://github.com/rmurphey/js-assessment) project, a
-test-driven tool for assessing a developer's JavaScript skills; and I
-contributed key modules to the [Johnny Five](https://github.com/rwldrn/johnny-five) library for using JavaScript to
-interact with Arduinos.
+Rebecca Murphey is a staff software engineer at Bazaarvoice, where she leads a
+team that shepherds third-party JavaScript application development for
+products with a reach of hundreds of millions of visitors across billions of
+pageviews.
+
+Rebecca has played a key role in the design and development of large client-
+side web applications, and is known for her expertise in best practices for
+organizing, testing, refactoring, and maintaining JavaScript application code.
+She is also recognized for mentoring promising developers.
+
+Rebecca developed the [JS Assessment](https://github.com/rmurphey/js- assessment)
+project, an open-source tool used by individuals, companies, and
+code schools to evaluate a developer's JavaScript skills. She was instrumental
+in getting promises introduced to jQuery 1.5, and has contributed to several
+open-source projects. She authored [jQuery Fundamentals](http://jqfundamentals.com/);
+contributed to the jQuery Cookbook (O'Reilly); and served as a technical
+reviewer for Node for Front-End Developers (Garann Means, O'Reilly) and
+Effective JavaScript (David Herman, Effective Software Development Series).
+
+Prior to her work at Bazaarvoice, Rebecca worked at a consulting, training,
+and development firm focused on open web technologies; before that, she worked
+for three years as an independent consultant. She is skilled and experienced
+in evaluating front-end developer skills and front-end technology decisions.
+
+Rebecca has spoken at dozens of conferences focused on front-end development,
+including Front-End Ops Conf 2014, multiple jQuery Conferences, JSConf US
+2013, JSConf US 2011, JSConf EU 2010, FrontTrends 2012, Fronteers 2012, and
+many others. She lives in Austin, TX and writes at rmurphey.com.
 
 - [Github](https://github.com/rmurphey)
 - [Twitter](https://twitter.com/rmurphey)
 - [Speaker Deck](http://speakerdeck.com/rmurphey)
 
 ## Career
+
+### Bazaarvoice, Austin TX
+*Staff Software Engineer &mdash; September 2013 - present*
+
+Lead a team responsible for promoting and ensuring best practices for
+consumer-facing client-side application development, and coordinate key front-
+end development activities and tools across product teams. Previously, grew
+and led a team of engineers of varying experience levels as they delivered new
+functionality and supported existing functionality while the user base grew
+from 10 million to more than 100 million pageviews each month. Increased the
+product quality by creating and documenting processes for code review and
+deployment; bringing visibility to an inadequate attention to quality in our
+process; and by working with the team's dev manager to institute policies
+around creating unit tests for new and existing code. Participated in planning,
+monitoring, and mitigation activities for the surge of traffic associated with
+"Black Friday" and the holiday shopping season.
+
+*Senior Software Engineer &mdash; February 2013 - August 2013*
+
+Transitioned rapidly from member to technical lead of a team responsible
+for the consumer-facing display of a mission-critical product.
 
 ### Bocoup, Boston, MA
 *Senior JavaScript Developer &mdash; April 2012 - December 2012*
