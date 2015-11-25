@@ -5,8 +5,6 @@ date: 2015-11-25 14:00
 comments: true
 ---
 
-# Building for HTTP/2
-
 Earlier this year, I got the chance to speak with Google's Ilya Grigorik about HTTP/2 for the [1.10 episode of the TTL Podcast](http://ttlpodcast.com/episodes/ilya-grigorik.html). It was a great primer for me on how HTTP/2 works and what it means for how we build the web, but it wasn't until more recently that I started to think about what it means for how we *build* the web — that is, how we generate and deploy the HTML, CSS, and JS that power web applications.
 
 If you're not familiar with [HTTP/2](https://httpwg.github.io/specs/rfc7540.html), the basics are simultaneously simple and mind-boggling. Whereas its predecessors allowed each connection to a server to serve only one request at a time, HTTP/2 allows a connection to serve multiple requests simultaneously. A connection can also be used for a server to *push* a resource to a client — a protocol-level replacement for the technique we currently call “inlining.”
