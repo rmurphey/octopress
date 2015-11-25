@@ -83,3 +83,11 @@ underpinning of the project (though it's certainly important that I be able to
 find my way around). Rather, it's my ability to ask these questions, and to
 hear and understand the answers, and interpret them into action. I'm thankful
 to the team that is giving me the chance.
+
+*Addendum: A few people have pointed out that these questions seem to focus
+on the negative: "what's going to go wrong?" I think this has a lot to do with
+the particular project I'm on right now: we're in the midst of a lot of
+changes to our underlying systems, so these sorts of questions are especially
+relevant. On a project that is more focused on new development, the questions
+might be focused more on the flip side: how do we know if things are going
+**right**?*
